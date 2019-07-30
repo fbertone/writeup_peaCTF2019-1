@@ -4,10 +4,8 @@
 
 ## Description
 
-```
 Mmm I ate some nice bacon and eggs this morning. Find out what else I had for
 an easy flag. Don’t forget to capitalize CTF! [Ciphertext](enc.txt)
-```
 
 ## Solution
 
