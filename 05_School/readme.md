@@ -8,8 +8,10 @@ My regular teacher was out sick so we had a *substitute* today. [Ciphertext](enc
 
 ## Solution
 
-> Alphabet: WCGPSUHRAQYKFDLZOJNXMVEBTI
-> zswGXU{ljwdhsqmags}
+```
+Alphabet: WCGPSUHRAQYKFDLZOJNXMVEBTI
+zswGXU{ljwdhsqmags}
+```
 
 This is a simple substitution cipher and we are given the equivalent alphabet (W = A, C = B, G = C,...) , so it's just a matter of substitute each character with the right one:
 
